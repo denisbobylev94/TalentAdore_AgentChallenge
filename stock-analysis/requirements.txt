@@ -1,0 +1,23 @@
+
+# Core Web Framework
+fastapi==0.115.13
+uvicorn==0.34.3
+
+# Streamlit for Web Interface
+streamlit==1.46.0
+
+# LangChain AI Framework
+langchain==0.3.25
+langchain-openai==0.3.24
+
+# OpenAI API Client
+openai==1.88.0
+
+# HTTP Requests
+requests==2.32.4
+
+# Environment Variables
+python-dotenv==1.1.0
+
+# Data Validation (required by FastAPI)
+pydantic==2.11.5
