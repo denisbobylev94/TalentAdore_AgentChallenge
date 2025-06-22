@@ -130,7 +130,7 @@ Confidence: High
 
 ## Technologies Used
 
-- **Python 3.8+**
+- **Python 3.14.1**
 - **FastAPI** - Web API
 - **LangChain** - AI agent framework
 - **OpenAI GPT-4** - AI analysis
